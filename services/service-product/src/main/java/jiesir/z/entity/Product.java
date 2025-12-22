@@ -1,6 +1,6 @@
 package jiesir.z.entity;
 
-import com.baomidou.mybatisplus.annotation.TableName;
+//import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 
 @Getter
 @Setter
-@TableName("product")
+//@TableName("product")
 public class Product {
 
     private Long id;
