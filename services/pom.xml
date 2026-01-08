@@ -13,6 +13,8 @@
     <modules>
         <module>service-order</module>
         <module>service-product</module>
+        <module>user-service</module>
+        <module>iam-service</module>
     </modules>
 
     <properties>
